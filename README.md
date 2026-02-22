@@ -11,7 +11,7 @@ famous recon drone provided to attacker during prep phase in the
 
 ## Requirements
 
-- 3D printed chassi
+- 3D printed chassis
 - electronic(full list **coming soon**)
 - phone
 - computer
